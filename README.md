@@ -1,4 +1,4 @@
-# Threads Scraper — Posts, Replies & Profile Extractor
+# Threads Scraper — Extract Threads Posts, Replies & Profiles
 
 Extract Threads posts and replies with profile data: follower counts, bio, post text, engagement, and timestamps for social listening and influencer research on Threads.net.
 
